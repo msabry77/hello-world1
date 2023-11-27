@@ -1,0 +1,17 @@
+For installing tomcat 
+
+https://www.youtube.com/watch?v=68WNroQBUts
+
+For the project setup 
+
+https://www.youtube.com/watch?v=Z9G5stlXoyg
+
+For jdk download 
+
+https://tomcat.apache.org/download-10.cgi
+
+after download it ,extract the nav into it 
+
+cd /root/jdk-11.0.21+9
+export JAVA_HOME=/root/jdk-11.0.21+9
+export PATH=$JAVA_HOME/bin:$PATH
