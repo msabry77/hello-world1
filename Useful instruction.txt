@@ -1,14 +1,14 @@
 For installing tomcat 
-
 https://www.youtube.com/watch?v=68WNroQBUts
 
 For the project setup 
-
 https://www.youtube.com/watch?v=Z9G5stlXoyg
 
-For jdk download 
-
+For tomcat download 
 https://tomcat.apache.org/download-10.cgi
+
+For JDK download 
+https://adoptium.net/
 
 after download it ,extract the nav into it 
 
